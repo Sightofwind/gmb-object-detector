@@ -13,4 +13,4 @@ Load YOLO11 or other TensorRT models, read real-time image streams from external
 
 ## License
 
-The source code of this project follows the GNU AGPL v3.0 protocol. Please refer to the [LICENSE] (./LICENSE.txt) document for details.
+The source code of this project follows the GNU AGPL v3.0 protocol. Please refer to the [LICENSE] (./LICENSE) document for details.
